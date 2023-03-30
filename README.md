@@ -1,3 +1,3 @@
 # FuelCalculator
-![Diagram of the algorithm](Images/Diagram_of_the_algorithm.PNG)
+![Diagram of the algorithm](Images/Fuel consumption algorithm diagram.PNG)
 
